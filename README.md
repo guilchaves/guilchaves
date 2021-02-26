@@ -7,7 +7,7 @@ _Hello there_! I'm _Guilherme Chaves_, a web developer located in Sao Paulo, Bra
 * 💾 Right now I'm studying to become a fullstack developer.
 
 #
-* 💻 JavaScript, Node.js, Express.js, HTML, CSS, Python, Java, Ruby on Rails.
+* 💻 HTML, CSS, JavaScript, Node.js, Python, Java, Ruby on Rails, MongoDB, SQL, APIRest.
 * 🧉 Non-stop mate drinker.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.

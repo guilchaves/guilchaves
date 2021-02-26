@@ -10,12 +10,12 @@ _Hello there_! I'm _Guilherme Chaves_, a web developer located in Brazil, Sao Pa
 * 💻 JavaScript, Node.js, Express.js, HTML, CSS, Python, Java, Ruby on Rails.
 * 🧉 Non-stop mate drinker.
 * 📚 Always up to learn new things.
+* 🐧 GNU/Linux enthusiast.
 
 # 
 Keep in touch with me! ✌️
 
-[Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)
-
+[Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)<br>
 [Email](mailto:guilchaves@gmail.com)
 
 <!--

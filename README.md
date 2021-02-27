@@ -16,6 +16,7 @@ _Hello there_! I'm _Guilherme Chaves_, a web developer located in Sao Paulo, Bra
 Keep in touch with me! ✌️
 
 [Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)<br>
+[Twitter](https://twitter.com/guilchvs)<br>
 [Email](mailto:guilchaves@gmail.com)
 
 <!--

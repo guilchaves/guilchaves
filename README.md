@@ -1,6 +1,6 @@
 ## Alô! ✋
 
-_Hello there_! I'm _Guilherme Chaves_, a web developer located in Sao Paulo, Brazil.
+#### _Hello there_! I'm _Guilherme Chaves_, a web developer located in Sao Paulo, Brazil.
 
 * 👨‍💻 I'm a _System Analysis and Development_ undergraduate at [_Mackenzie Presbyterian University_](https://www.mackenzie.br/en/universidade/coi/institutional/about-upm).
 * 🎓 I'm an [University of Sao Paulo](https://www5.usp.br/#english) alumni. I have a _Bachelor's degree_ in _Language and Literature with qualification in Portuguese and German_. 

@@ -7,7 +7,7 @@
 * 💾 Right now I'm studying to become a fullstack developer.
 
 #
-* 💻 HTML, CSS, JavaScript, Vue.js, Node.js, Java, Ruby on Rails, MongoDB, SQL, APIRest.
+* 💻 HTML, CSS, JavaScript, Vue.js, Node.js, Java, MongoDB, SQL, APIRest.
 * 🧉 Non-stop mate drinker.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.

@@ -4,7 +4,7 @@
 
 * 👨‍🎓 I'm a _System Analysis and Development_ undergraduate at [_Mackenzie Presbyterian University_](https://www.mackenzie.br/en/universidade/coi/institutional/about-upm).
 * 🎓 I'm an [University of Sao Paulo](https://www5.usp.br/#english) alumni. I have a _Bachelor's degree_ in _Language and Literature with qualification in Portuguese and German_. 
-* 👨‍💻 I'm a Web Development Intern at [_Monitora Soluções Tecnológicas_](https://www.monitoratec.com.br/en)
+* 👨‍💻 I'm a Web Development Intern at [_Monitora_](https://www.monitoratec.com.br/en).
 
 #
 * 💻 HTML, CSS, JavaScript, Vue.js, Node.js, Java, MongoDB, SQL, APIRest.

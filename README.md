@@ -16,7 +16,6 @@
 Keep in touch with me! ✌️
 
 [Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)<br>
-[Twitter](https://twitter.com/guilchvs)<br>
 [Email](mailto:gchaves.guilherme@gmail.com)
 
 <!--

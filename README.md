@@ -8,7 +8,7 @@
 * 👨‍💻 I'm a Web Development Intern at [_Monitora_](https://www.monitoratec.com.br/en).
 
 #
-* 💻 Vue, Angular, Java, Python, MongoDB, SQL, APIRest.
+* 💻 Angular, Vue, Java, Python, MongoDB, SQL, APIRest.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.
 * 🧉 Non-stop mate drinker.

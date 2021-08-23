@@ -9,13 +9,17 @@
 * 🐻 Pronouns: he/him/his
 
 #
+
 * 💻 Angular, Vue, Java, Python, MongoDB, SQL, Rest API.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.
 * 🧉 Non-stop mate drinker.
 * 🍻 Cheap beer enthusiast.
 
-# 
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilchaves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#themes)
+#
 Keep in touch with me! ✍️
 
 [Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)<br>

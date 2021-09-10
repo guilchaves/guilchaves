@@ -10,7 +10,8 @@
 
 #
 
-* 💻 Angular, Vue, Java, Python, MongoDB, SQL, Rest API.
+* ⚒️ I'm currently learning Angular 
+* 💻 Also like: Vue, Java, Python, Rails, MongoDB, SQL, Rest API.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.
 * 🧉 Non-stop mate drinker.

@@ -23,8 +23,8 @@
 #
 Keep in touch with me! ✍️
 
-[Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)<br>
-[Email](mailto:gchaves.guilherme@gmail.com)
+📎 [Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)<br>
+📫 [Email](mailto:gchaves.guilherme@gmail.com)
 
 <!--
 **guilchaves/guilchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

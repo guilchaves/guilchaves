@@ -6,11 +6,11 @@
 * 🎓 I'm an [University of Sao Paulo](https://www5.usp.br/#english) alumni. I have a _Bachelor in Arts_ in _Language and Literature with qualification in Portuguese and German_. 
 * 🌾 I've worked as a Brewer at [_Cervejaria Zev_](https://www.cervejariazev.com.br/).
 * 👨‍💻 I'm a Web Development Intern at [_Monitora_](https://www.monitoratec.com.br/en).
-* 🐻 Pronouns: he/him/his
+* 🐻 Pronouns: he/him/his.
 
 #
 
-* ⚒️ Currently learning React & React Native 
+* ⚒️ Currently learning React & React Native.
 * 💻 Also like: Angular, Vue, Java, Python, Rails, MongoDB, SQL, Rest API.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.

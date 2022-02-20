@@ -1,4 +1,4 @@
-# Alô! 🙌
+# Alô!🧉
 
 ### _Hello there_! I'm _Guilherme Chaves_, a web developer based in Sao Paulo, Brazil.
 
@@ -10,8 +10,8 @@
 
 #
 
-* ⚒️ Currently learning Angular 
-* 💻 Also like: Vue, Java, Python, Rails, MongoDB, SQL, Rest API.
+* ⚒️ Currently learning React & React Native 
+* 💻 Also like: Angular, Vue, Java, Python, Rails, MongoDB, SQL, Rest API.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.
 * 🧉 Non-stop mate drinker.

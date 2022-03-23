@@ -5,7 +5,7 @@
 * 👨‍🎓 I'm a _Systems Analysis and Development_ undergraduate at [_Mackenzie Presbyterian University_](https://www.mackenzie.br/en/universidade/coi/institutional/about-upm).
 * 🎓 I'm an [University of Sao Paulo](https://www5.usp.br/#english) alumni. I have a _Bachelor in Arts_ in _Language and Literature with qualification in Portuguese and German_. 
 * 🌾 I've worked as a Brewer at [_Cervejaria Zev_](https://www.cervejariazev.com.br/).
-* 👨‍💻 I'm a Web Development Intern at [ FlipOn ](https://flipon.app/).
+* 👨‍💻 I'm a Web Development Intern at [_FlipOn_](https://flipon.app/).
 * 🐻 Pronouns: he/him/his.
 
 #

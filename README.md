@@ -2,15 +2,15 @@
 
 ### _Hello there_! I'm _Guilherme Chaves_, a web developer based in Sao Paulo, Brazil.
 
-* 👨‍🎓 I'm a _Systems Analysis and Development_ undergraduate at [_Mackenzie Presbyterian University_](https://www.mackenzie.br/en/universidade/coi/institutional/about-upm).
-* 🎓 I'm an [University of Sao Paulo](https://www5.usp.br/#english) alumni. I have a _Bachelor in Arts_ in _Language and Literature with qualification in Portuguese and German_. 
+* 👨‍💻 I'm a Web Development Intern at [_FlipOn_](https://flipon.app/) using technologies such as React Native and Redux.
+* 👨‍🎓 I have a _Technologist Degree_ in _Systems Analysis and Development_ from [_Mackenzie Presbyterian University_](https://www.mackenzie.br/en/universidade/coi/institutional/about-upm).
+* 🎓 Also have a _Bachelor's Degree_ in _Language and Literature with qualification in Portuguese and German_ from the [University of Sao Paulo](https://www5.usp.br/#english). 
 * 🌾 I've worked as a Brewer at [_Cervejaria Zev_](https://www.cervejariazev.com.br/).
-* 👨‍💻 I'm a Web Development Intern at [_FlipOn_](https://flipon.app/).
 * 🐻 Pronouns: he/him/his.
 
 #
 
-* ⚒️ Currently learning React & React Native.
+* ⚒️ Currently learning the React ecosystem and Django.
 * 💻 Also like: Angular, Vue, Java, Python, Rails, MongoDB, SQL, Rest API.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.
@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilchaves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#themes)
 #
-Keep in touch with me! ✍️
+Keep in touch with me! ✍️ :incoming_envelope:
 
 📎 [Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)<br>
 📫 [Email](mailto:gchaves.guilherme@gmail.com)

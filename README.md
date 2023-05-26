@@ -10,7 +10,7 @@
 
 #
 
-* ⚒️ Currently learning the React ecosystem and Django.
+* ⚒️ Currently learning the React ecosystem and Django REST Framework.
 * 💻 Also like: Angular, Vue, Java, Python, Rails, MongoDB, SQL, Rest API.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.

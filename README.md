@@ -2,7 +2,7 @@
 
 ### _Hello there_! I'm _Guilherme Chaves_, a web developer based in Sao Paulo, Brazil.
 
-* 👨‍💻 I'm a professional Web Developer working at [_FlipOn_](https://flipon.app/) using React, React Native and Django.
+* 👨‍💻 I'm a professional Software Engineer working at [_FlipOn_](https://flipon.app/) using React, React Native and Django.
 * 👨‍🎓 I have a _Technologist Degree_ in _Systems Analysis and Development_ from [_Mackenzie Presbyterian University_](https://www.mackenzie.br/en/universidade/coi/institutional/about-upm).
 * 🎓 Also have a _Bachelor's Degree_ in _Language and Literature with qualification in Portuguese and German_ from the [University of Sao Paulo](https://www5.usp.br/#english). 
 * 🌾 I've worked as a Brewer at [_Cervejaria Zev_](https://www.cervejariazev.com.br/).
@@ -11,7 +11,8 @@
 #
 
 * ⚒️ Currently learning the React ecosystem and Django REST Framework.
-* 💻 Also like: Angular, Vue, Java, Python, Rails, MongoDB, SQL, Rest API.
+* 💻 Work with: React, React Native, TypeScript, Redux, Zustand, Tailwind, Django, PostgreSQL.
+* 🤓 Also into: Java, Spring, Vue, Angular, NextJs, Rest API, TRPc, MongoDB, SQL.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.
 * 🧉 Non-stop mate drinker.

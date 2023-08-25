@@ -12,7 +12,7 @@
 
 * ⚒️ Currently learning the React ecosystem and Django REST Framework.
 * 💻 Work with: React, React Native, TypeScript, Redux, Zustand, Tailwind, Django, PostgreSQL.
-* 🤓 Also into: Java, Spring, Vue, Angular, NextJs, Rest API, TRPc, MongoDB, SQL.
+* 🤓 Also into: Java, Spring, NextJs, Rest API, TRPc.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux enthusiast.
 * 🧉 Non-stop mate drinker.

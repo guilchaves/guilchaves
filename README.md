@@ -10,11 +10,11 @@
 
 #
 
-* ⚒️ Currently learning the React ecosystem and Django REST Framework.
+* ⚒️ Currently studying the React ecosystem and Django REST Framework.
 * 💻 Work with: React, React Native, TypeScript, Redux, Zustand, Tailwind, Django, PostgreSQL.
-* 🤓 Also into: Java, Spring, NextJs, Rest API, TRPc.
+* 🤓 Also into: Java, Spring, NextJs.
 * 📚 Always up to learn new things.
-* 🐧 GNU/Linux enthusiast.
+* 🐧 GNU/Linux fan.
 * 🧉 Non-stop mate drinker.
 * 🍻 Cheap beer enthusiast.
 

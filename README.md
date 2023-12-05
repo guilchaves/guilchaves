@@ -12,7 +12,7 @@
 
 * ⚒️ Currently studying Java and Spring Framework.
 * 💻 Work with: React, React Native, TypeScript, Redux, Zustand, Tailwind, Django, PostgreSQL.
-* 🤓 Also into: NextJs, Vue, DevOps.
+* 🤓 Also into: Angular, NextJs, DevOps.
 * 📚 Always up to learn new things.
 * 🐧 GNU/Linux fan.
 * 🧉 Non-stop mate drinker.

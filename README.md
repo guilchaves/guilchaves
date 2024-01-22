@@ -20,7 +20,7 @@
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilchaves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#themes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilchaves&layout=compact&theme=dark)
 #
 Keep in touch with me! ✍️ :incoming_envelope:
 

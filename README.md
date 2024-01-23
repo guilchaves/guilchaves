@@ -1,43 +1,37 @@
-# Alô!🧉
 
-### _Hello there_! I'm _Guilherme Chaves_, a web developer based in Sao Paulo, Brazil.
+### 🧉 hello!
+professional software engineer and amateur mate maven.
+<a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
 
-* 👨‍💻 I'm a professional Software Engineer working at [_FlipOn_](https://flipon.app/) using React, React Native and Django.
-* 👨‍🎓 I have a _Technologist Degree_ in _Systems Analysis and Development_ from [_Mackenzie Presbyterian University_](https://www.mackenzie.br/en/universidade/coi/institutional/about-upm).
-* 🎓 Also have a _Bachelor's Degree_ in _Language and Literature with qualification in Portuguese and German_ from the [University of Sao Paulo](https://www5.usp.br/#english). 
-* 🌾 I've worked as a Brewer at [_Cervejaria Zev_](https://www.cervejariazev.com.br/).
-* 🐻 Pronouns: he/him/his.
+- currently working: typescript > nextjs > react > react-native > python > django.
+- currently side projecting: java  >  spring > microservices. 
+- currently spending my free time: rust > elixir > any other one that may pop into mind.
 
-#
+### 🍃 about me 
+- based in sao paulo, brazil.
+- systems analysis and development degree.
+- he > him > his
 
-* 🍃 Currently studying Java and Spring Framework.
-* 💻 Work with: React, React Native, TypeScript, Redux, Zustand, Tailwind, Django REST, PostgreSQL.
-* 🤓 Also into: Angular, Vue, DevOps.
-* 📚 Always up to learn new things.
-* 🐧 GNU/Linux fan.
-* 🧉 Non-stop mate drinker.
-* 🍻 Cheap beer enthusiast.
+###### study projects
+- [java spring catalog](https://github.com/guilchaves/spring-expert-dscatalog) - rest api for marketplace
+- [java spring commerce](https://github.com/guilchaves/spring-professional-dscommerce) - rest api for e-commerce
+- [rust](https://github.com/guilchaves/rust-programming-studies) - my journey to rust
+- [nodemcu](https://github.com/guilchaves/estacao-mqtt-nodemcu) - iot with nodemcu microcontroller
+  
+###### dotfiles
+- [neovim](https://github.com/guilchaves/my-dotfiles) - neovim dotfiles written in lua
 
-#
+### find me
+<a href="mailto:gchaves.guilherme@gmail.com">
+  <img
+    src="https://img.shields.io/static/v1?logo=gmail&style=flat-square&color=EA4335&label=Gmail&message=%E2%98%86"
+    alt="Gmail"
+  />
+</a>
+  <a href="https://www.linkedin.com/in/guil-chaves/?locale=en_US/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilchaves&layout=compact&theme=dark)
-#
-Keep in touch with me! ✍️ :incoming_envelope:
-
-📎 [Linkedin](https://www.linkedin.com/in/guil-chaves/?locale=en_US)<br>
-📫 [Email](mailto:gchaves.guilherme@gmail.com)
-
-<!--
-**guilchaves/guilchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

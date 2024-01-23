@@ -15,7 +15,7 @@ professional software engineer and amateur mate maven.
 ###### study projects
 - [java spring catalog](https://github.com/guilchaves/spring-expert-dscatalog) - rest api for marketplace
 - [java spring commerce](https://github.com/guilchaves/spring-professional-dscommerce) - rest api for e-commerce
-- [rust](https://github.com/guilchaves/rust-programming-studies) - my journey to rust
+- [rust](https://github.com/guilchaves/rust-programming-studies) - my journey into rust
 - [nodemcu](https://github.com/guilchaves/estacao-mqtt-nodemcu) - iot with nodemcu microcontroller
   
 ###### dotfiles

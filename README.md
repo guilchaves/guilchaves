@@ -23,5 +23,5 @@ professional software engineer and amateur mate maven.
 
 ### find me
 [![linkedin - guilchaves](https://img.shields.io/badge/linkedin-guilchaves-0077b5?logo=linkedin)](https://www.linkedin.com/in/guil-chaves/?locale=en_US)
-[![gmail - gchaves.guilherme](https://img.shields.io/badge/gmail-gchaves.guilherme-DB4437?logo=gmail)](mailto:gchaves.guilherme@gmail.com)
+[![email - chaves.guilherme](https://img.shields.io/badge/email-chaves.guilherme-8a90c7?logo=proton)](chaves.guilherme@proton.me)
 

@@ -22,16 +22,6 @@ professional software engineer and amateur mate maven.
 - [neovim](https://github.com/guilchaves/my-dotfiles) - neovim dotfiles written in lua
 
 ### find me
-<a href="mailto:gchaves.guilherme@gmail.com">
-  <img
-    src="https://img.shields.io/static/v1?logo=gmail&style=flat-square&color=EA4335&label=Gmail&message=%E2%98%86"
-    alt="Gmail"
-  />
-</a>
-  <a href="https://www.linkedin.com/in/guil-chaves/?locale=en_US/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
+[![linkedin - guilchaves](https://img.shields.io/badge/linkedin-guilchaves-0077b5?logo=linkedin)](https://www.linkedin.com/in/guil-chaves/?locale=en_US)
+[![gmail - gchaves.guilherme](https://img.shields.io/badge/gmail-gchaves.guilherme-DB4437?logo=gmail)](mailto:gchaves.guilherme@gmail.com)
 

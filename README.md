@@ -1,11 +1,15 @@
 
 ### 🧉 hello!
 professional software engineer and amateur mate maven.
-<a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
+<div>
+  <a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
+</div>
 
 - currently working: typescript > nextjs > react > react-native > python > django.
 - currently side projecting: java  >  spring > microservices. 
 - currently spending my free time: rust > elixir > any other one that may pop into mind.
+
+
 
 ### 🍃 about me 
 - based in sao paulo, brazil.
@@ -20,6 +24,8 @@ professional software engineer and amateur mate maven.
   
 ###### dotfiles
 - [neovim](https://github.com/guilchaves/my-dotfiles) - neovim dotfiles written in lua
+<a href="https://www.codewars.com/users/guilchaves/"><img align="right" src="https://www.codewars.com/users/guilchaves/badges/small"/></a>
+
 
 ### find me
 [![linkedin - guilchaves](https://img.shields.io/badge/linkedin-guilchaves-0077b5?logo=linkedin)](https://www.linkedin.com/in/guil-chaves/?locale=en_US)

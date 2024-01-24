@@ -1,9 +1,8 @@
 
 ### 🧉 hello!
 professional software engineer and amateur mate maven.
-<div>
-  <a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
-</div>
+
+<a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
 
 - currently working: typescript > nextjs > react > react-native > python > django.
 - currently side projecting: java  >  spring > microservices. 
@@ -21,7 +20,7 @@ professional software engineer and amateur mate maven.
 - [java spring commerce](https://github.com/guilchaves/spring-professional-dscommerce) - rest api for e-commerce
 - [rust](https://github.com/guilchaves/rust-programming-studies) - my journey into rust
 - [nodemcu](https://github.com/guilchaves/estacao-mqtt-nodemcu) - iot with nodemcu microcontroller
-  <a href="https://www.codewars.com/users/guilchaves/"><img align="right" src="https://www.codewars.com/users/guilchaves/badges/small"/></a>
+- <a href="https://www.codewars.com/users/guilchaves/"><img align="right" src="https://www.codewars.com/users/guilchaves/badges/small"/></a>
 
 ###### dotfiles
 - [neovim](https://github.com/guilchaves/my-dotfiles) - neovim dotfiles written in lua

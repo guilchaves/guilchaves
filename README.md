@@ -29,4 +29,4 @@ professional software engineer and amateur mate maven.
 [![linkedin - guilchaves](https://img.shields.io/badge/linkedin-guilchaves-0077b5?logo=linkedin)](https://www.linkedin.com/in/guil-chaves/?locale=en_US)
 [![email - chaves.guilherme](https://img.shields.io/badge/email-chaves.guilherme-554488?logo=proton)](chaves.guilherme@proton.me)
 [![gitlab - guilchaves](https://img.shields.io/badge/gitlab-guilchaves-fc6d26?logo=gitlab)](https://gitlab.com/guilchaves)
-<a href="https://www.codewars.com/users/guilchaves/"><img align="right" src="https://www.codewars.com/users/guilchaves/badges/small"/></a>
+

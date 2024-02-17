@@ -22,7 +22,7 @@ professional software engineer and amateur mate maven.
 - [nodemcu](https://github.com/guilchaves/estacao-mqtt-nodemcu) - iot with nodemcu microcontroller
 
 ###### dotfiles
-- [neovim](https://github.com/guilchaves/my-dotfiles) - neovim dotfiles written in lua
+- [neovim](https://github.com/guilchaves/dotfiles) - neovim dotfiles written in lua
 
 
 ### find me

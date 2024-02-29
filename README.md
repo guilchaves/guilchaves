@@ -17,9 +17,9 @@ professional software engineer and amateur mate maven.
 
 ###### study projects
 - [java spring catalog](https://github.com/guilchaves/spring-expert-dscatalog) - rest api for marketplace
-- [java spring commerce](https://github.com/guilchaves/spring-professional-dscommerce) - rest api for e-commerce
+- [microservices for loan and credit analysis](https://github.com/guilchaves/loan-proposal-ms-rabbitmq) - microservices and rabbitmq study
 - [rust](https://github.com/guilchaves/rust-programming-studies) - my journey into rust
-- [nodemcu](https://github.com/guilchaves/estacao-mqtt-nodemcu) - iot with nodemcu microcontroller
+- [nodemcu](https://github.com/guilchaves/estacao-mqtt-nodemcu) - iot project with nodemcu microcontroller
 
 ###### dotfiles
 - [neovim](https://github.com/guilchaves/dotfiles) - neovim dotfiles written in lua

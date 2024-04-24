@@ -4,7 +4,7 @@ professional software engineer and amateur mate maven.
 
 <a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
 
-- currently working: typescript > react > react-native > python > django rest.
+- currently working: typescript > react > next
 - currently side projecting: java  >  spring > microservices. 
 - currently spending my free time: rust > elixir > any other one that may pop into mind.
 

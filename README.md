@@ -6,7 +6,7 @@ professional software engineer and amateur mate maven.
 
 - currently working: typescript > react > next.
 - currently side projecting: java  >  spring > microservices. 
-- currently spending my free time: rust > elixir > any other one that may pop into mind.
+- currently spending my free time: rust > go > any other one that may pop into mind.
 
 
 

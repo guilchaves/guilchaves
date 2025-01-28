@@ -5,9 +5,7 @@ professional software engineer and amateur mate maven.
 <a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
 
 - currently working with: react > next
-- currently side projecting: vue  >  spring 
-- currently spending my free time: rust > go > any other one that may pop into mind.
-
+- currently learning/side projecting: go  >  java > elixir 
 
 
 ### 🍃 about me 
@@ -18,11 +16,11 @@ professional software engineer and amateur mate maven.
 ###### study projects
 - [java spring catalog](https://github.com/guilchaves/spring-expert-dscatalog) - rest api for shops
 - [microservices for loan and credit analysis](https://github.com/guilchaves/loan-proposal-ms-rabbitmq) - microservices and rabbitmq study
-- [rust](https://github.com/guilchaves/rust-programming-studies) - my journey into rust
+- [rust webscrapper](https://github.com/guilchaves/furafila-cinesala) - cli application to tell me when a movie theater updates its weekly sessions
 - [nodemcu](https://github.com/guilchaves/estacao-mqtt-nodemcu) - iot project with nodemcu microcontroller
 
 ###### dotfiles
-- [dotfiles](https://github.com/guilchaves/dotfiles) - neovim dotfiles written in lua, fish shell, tmux, etc
+- [dotfiles](https://github.com/guilchaves/dotfiles) - my dotfiles and configs for nvim, tmux, kitty, hprland, etc
 
 
 ### find me

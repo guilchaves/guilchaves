@@ -5,7 +5,8 @@ professional software engineer and amateur mate maven.
 <a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
 
 - currently working with: react > next
-- currently learning: go 
+- knows: typescript, java
+- currently learning/side projecting: go 
 
 
 ### 🍃 about me 

@@ -2,23 +2,16 @@
 ### 🧉 hello!
 professional software engineer and amateur mate maven.
 
-<a href="https://app.daily.dev/guilchaves"><img align="right" src="https://api.daily.dev/devcards/bf4f8e01e42b41c08a189790f4b3ca22.png?r=3v4" width="260" alt="Guilherme Chaves's Dev Card"/></a>
 
-- currently working with: react, nextjs, nest
-- knows: typescript, java/spring, python
-- currently learning/side projecting: golang 
+- currently working with: react, nest, llms & nlp pipelines
+- knows: typescript, python
+- currently learning:  data science, machine learning, nlp & model evaluation  
 
 
 ### 🍃 about me 
-- based in sao paulo, brazil.
-- systems analysis and development degree.
-- he > him > his
+- based in sao paulo, brazil
+- fapesp technical training fellow
 
-###### study projects
-- [java spring catalog](https://github.com/guilchaves/spring-expert-dscatalog) - rest api for shops
-- [microservices for loan and credit analysis](https://github.com/guilchaves/loan-proposal-ms-rabbitmq) - microservices and rabbitmq study
-- [rust webscrapper](https://github.com/guilchaves/furafila-cinesala) - cli application to tell me when a movie theater updates its weekly sessions
-- [nodemcu](https://github.com/guilchaves/estacao-mqtt-nodemcu) - iot project with nodemcu microcontroller
 
 ###### dotfiles
 - [dotfiles](https://github.com/guilchaves/dotfiles) - my dotfiles and configs for nvim, tmux, kitty, hprland, etc

@@ -14,7 +14,7 @@ professional software engineer and amateur mate maven.
 
 
 ###### dotfiles
-- [dotfiles](https://github.com/guilchaves/dotfiles) - my dotfiles and configs for nvim, tmux, kitty, hprland, etc
+- [dotfiles](https://github.com/guilchaves/dotfiles) - my dotfiles and configs for nvim, tmux, kitty, hyprland, etc
 
 
 ### find me

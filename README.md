@@ -5,7 +5,7 @@ professional software engineer and amateur mate maven.
 
 - currently working with: typescript, python, llms & nlp pipelines
 - knows: react, nest, golang, java/spring, python
-- currently learning:  data science, machine learning, nlp & model evaluation  
+- currently learning:  data science, machine learning & nlp
 
 
 ### 🍃 about me 

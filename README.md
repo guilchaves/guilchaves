@@ -2,7 +2,7 @@
 
 - currently working with: python, nlp pipelines & llm
 - knows: python, typescript, golang, java
-- currently learning:  data science, machine learning & nlp
+- currently learning:  data science, analytics, machine learning & nlp
 
 
 ###### 🍃 about me 
